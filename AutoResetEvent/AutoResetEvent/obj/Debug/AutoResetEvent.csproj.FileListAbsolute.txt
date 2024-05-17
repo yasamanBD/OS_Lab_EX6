@@ -1,0 +1,7 @@
+D:\Uni\OS Lab\OS_Lab_EX6\AutoResetEvent\AutoResetEvent\obj\Debug\AutoResetEvent.csproj.AssemblyReference.cache
+D:\Uni\OS Lab\OS_Lab_EX6\AutoResetEvent\AutoResetEvent\obj\Debug\AutoResetEvent.csproj.CoreCompileInputs.cache
+D:\Uni\OS Lab\OS_Lab_EX6\AutoResetEvent\AutoResetEvent\bin\Debug\AutoResetEvent.exe.config
+D:\Uni\OS Lab\OS_Lab_EX6\AutoResetEvent\AutoResetEvent\bin\Debug\AutoResetEvent.exe
+D:\Uni\OS Lab\OS_Lab_EX6\AutoResetEvent\AutoResetEvent\bin\Debug\AutoResetEvent.pdb
+D:\Uni\OS Lab\OS_Lab_EX6\AutoResetEvent\AutoResetEvent\obj\Debug\AutoResetEvent.exe
+D:\Uni\OS Lab\OS_Lab_EX6\AutoResetEvent\AutoResetEvent\obj\Debug\AutoResetEvent.pdb
