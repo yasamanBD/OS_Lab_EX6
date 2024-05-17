@@ -1,0 +1,7 @@
+D:\Uni\OS Lab\OS_Lab_EX6\MONITOR\MONITOR\bin\Debug\MONITOR.exe.config
+D:\Uni\OS Lab\OS_Lab_EX6\MONITOR\MONITOR\bin\Debug\MONITOR.exe
+D:\Uni\OS Lab\OS_Lab_EX6\MONITOR\MONITOR\bin\Debug\MONITOR.pdb
+D:\Uni\OS Lab\OS_Lab_EX6\MONITOR\MONITOR\obj\Debug\MONITOR.csproj.AssemblyReference.cache
+D:\Uni\OS Lab\OS_Lab_EX6\MONITOR\MONITOR\obj\Debug\MONITOR.csproj.CoreCompileInputs.cache
+D:\Uni\OS Lab\OS_Lab_EX6\MONITOR\MONITOR\obj\Debug\MONITOR.exe
+D:\Uni\OS Lab\OS_Lab_EX6\MONITOR\MONITOR\obj\Debug\MONITOR.pdb
