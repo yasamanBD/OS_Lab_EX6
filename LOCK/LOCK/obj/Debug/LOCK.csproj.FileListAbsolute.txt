@@ -1,0 +1,7 @@
+D:\Uni\OS Lab\OS_Lab_EX6\LOCK\LOCK\bin\Debug\LOCK.exe.config
+D:\Uni\OS Lab\OS_Lab_EX6\LOCK\LOCK\bin\Debug\LOCK.exe
+D:\Uni\OS Lab\OS_Lab_EX6\LOCK\LOCK\bin\Debug\LOCK.pdb
+D:\Uni\OS Lab\OS_Lab_EX6\LOCK\LOCK\obj\Debug\LOCK.csproj.AssemblyReference.cache
+D:\Uni\OS Lab\OS_Lab_EX6\LOCK\LOCK\obj\Debug\LOCK.csproj.CoreCompileInputs.cache
+D:\Uni\OS Lab\OS_Lab_EX6\LOCK\LOCK\obj\Debug\LOCK.exe
+D:\Uni\OS Lab\OS_Lab_EX6\LOCK\LOCK\obj\Debug\LOCK.pdb
